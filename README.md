@@ -2,5 +2,5 @@
 ![](home.png)
 ![](add.png)
 ![](boards.png)
-![](rain-drops-on-window-rain-drops-window-glass-rain-drops.jpg)
+![](rain_drop.png)
 ![](account.png)
