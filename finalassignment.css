@@ -1,0 +1,78 @@
+body {
+    background-image: url('/home/akshay/Pictures/rain-drops-on-window-rain-drops-window-glass-rain-drops.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+div {
+    background-color: rgba(129, 129, 241, 0.5);
+    color: white;
+    font-size: 1.15em;
+    text-align: center;
+    padding: 18px;
+    margin: 0 -0.5rem;
+    margin-top: -11px;
+    top: -20rem;
+}
+#home {
+    background-color: rgb(129, 129, 241);
+    width: 2em;
+    border-radius: 2px;
+    position: relative;
+    top: -44px;
+    left: 17px;
+}
+#boards {
+    width: 3.7em;
+    border-radius: 2px;
+    position: relative;
+    top: -44px;
+    left: 23px;
+}
+#search {
+    width: 10em;
+    height: 2.5em;
+    border-radius: 2px;
+    position: relative;
+    top: -80px;
+    left: 130px;
+}
+input[type=search] {
+    background-color:  rgb(129, 129, 241);
+    border: none;
+}
+input[type=search]:focus{
+    background-color: white;
+}
+#add {
+    width: 2.1em;
+    border-radius: 2px;
+    position: relative;
+    top: -114px;
+    left: 1250px;
+}
+#account {
+    width: 2em;
+    border-radius: 2px;
+    position: relative;
+    top: -115px;
+    left: 1260px;
+}
+#Training {
+    background-color: rgba(255, 255, 255, 0.1);
+    text-align: left;
+    color: white;
+    margin-top: -107px;
+}
+.show {
+    color: white;
+    font-size: 1.15em;
+    position: relative;
+    top: -40px;
+    left: 1250px;
+}
+.box {
+    text-align: left;
+    background-color: blue;
+    margin-left: 1em;
+    margin-right: 63em;
+}
